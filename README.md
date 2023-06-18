@@ -5,4 +5,4 @@
 #### For training the TACO dataset was used 
 http://tacodataset.org/
 
-#### The models are result of transfer learning and fine tuning on multiple different models. Also, demo videos are present detecting litter.
+#### The models are result of transfer learning and fine tuning on multiple different models.
